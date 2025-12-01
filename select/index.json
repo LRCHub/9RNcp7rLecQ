@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "【歌ってみた】遠心力 covered by 燈",
+  "base_artist": "MyGO!!!!!",
+  "createdAt": "2025-12-01T04:40:19.137246Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "遠心力",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_01_遠心力_ロクデナシ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "遠心力 (feat. Wakoo)",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_02_遠心力_(feat._Wakoo)_ロクデナシ.txt"
+    }
+  ]
+}
